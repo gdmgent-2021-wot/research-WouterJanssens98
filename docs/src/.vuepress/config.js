@@ -41,12 +41,14 @@ module.exports = {
     sidebar: {
       '/guide/': [
         {
-          title: 'Table Of Contents',
-          collapsable: false,
+          title: 'Inhoudstafel',
+          collapsable: true,
           children: [
-            '',
-            'using-vue',
-            'papito',
+            'inleiding',
+            'week1',
+            'week2',
+            'week3',
+            'week4'
           ]
         }
       ],

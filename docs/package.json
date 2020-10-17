@@ -15,5 +15,9 @@
   "license": "MIT",
   "devDependencies": {
     "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "firebase": "^7.22.0",
+    "firebase-tools": "^8.11.2"
   }
 }
